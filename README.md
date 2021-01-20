@@ -4,6 +4,6 @@ App link:
 
 https://arcane-reaches-85831.herokuapp.com/
 
-![](output/out1.jpg)
+![](Output/out1.jpg)
 
-![](output/out2.jpg)
+![](Output/out2.jpg)
